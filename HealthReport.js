@@ -98,7 +98,7 @@ function getId(timeout = 3 * 1000) {
                 "Host": "work.weixin.qq.com",
                 "Connection": "keep-alive",
                 "Accept": "application/json, text/plain, */*",
-                "User-Agent": "Mozilla/5.0 (Linux; Android 10; JNY-AL10 Build/HUAWEIJNY-AL10; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.72 MQQBrowser/6.2 TBS/046125 Mobile Safari/537.36 wxwork/4.0.16 ColorScheme/Light MicroMessenger/7.0.1 NetType/WIFI Language/zh Lang/zh",
+                "User-Agent": "Mozilla/5.0 (Linux; Android 10; JNY-AL11 Build/HUAWEIJNY-AL11; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.72 MQQBrowser/6.2 TBS/046125 Mobile Safari/537.36 wxwork/4.0.16 ColorScheme/Light MicroMessenger/7.0.1 NetType/WIFI Language/zh Lang/zh",
                 "Cookie": `wwrtx.xcx.sid=${Account_data[0]}`,
             },
 
